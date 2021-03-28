@@ -1,4 +1,4 @@
-# real-vs-fake-news
+# Real or Fake News Detection
 During the fall semester of 2021, I took a deep learning class. Here is my final project for this class. 
 
 Is it real or fake :newspaper:?
